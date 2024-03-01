@@ -1,0 +1,15 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(227, 225, 225);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+/* .container {
+  box-shadow: 0px 0px 20px rgb(30, 28, 28);
+} */
